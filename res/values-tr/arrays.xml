@@ -383,6 +383,8 @@
         <item>FENER</item>
 		<item>SENKRON</item>
         <item>SWAGGER</item>
+        <item>SOUND_MODE</item>
+        <item>BRIGHT_MODE</item>
     </string-array>
     <string-array name="available_toggles_values">
         <item>Oto-Donüş</item>
@@ -395,6 +397,8 @@
         <item>Fener</item>
 		<item>Senkron</item>
         <item>Swagger</item>
+        <item>Sound mode</item>
+        <item>Brightness mode</item>
     </string-array>
     <string-array name="lockscreen_choice_entries">
         <item>Kilit aç</item>
